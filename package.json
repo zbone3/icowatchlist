@@ -1,0 +1,28 @@
+{
+  "name": "icowatchlist",
+  "version": "1.0.0",
+  "description": "A simple Node.js API wrapper for icowatchlist.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbone3/icowatchlist.git"
+  },
+  "keywords": [
+    "ico",
+    "cryptocurrency",
+    "api",
+    "icowatchlist"
+  ],
+  "author": "Ziv Eli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zbone3/icowatchlist/issues"
+  },
+  "homepage": "https://github.com/zbone3/icowatchlist#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
